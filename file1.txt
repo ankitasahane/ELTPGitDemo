@@ -7,3 +7,4 @@ Chnage 5 :-> change by team mate to cjeck rebase for WT5
 change 6 :-> to modified the feature logout is inprogress
 change 7 :-> tu push the local to remote
 change 8 : to chacke rebasing in remote server
+change 8 :-> rebasing in remote server in local repo bug10  by me
