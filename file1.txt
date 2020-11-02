@@ -1,3 +1,4 @@
 hello world
-changw 1 : change for login feature for WI1.
-change 2 : bug1 fix
+changw 1 :: change for login feature for WI1.
+change 2 :: bug1 fix
+change 3 :: for bug2 fix
